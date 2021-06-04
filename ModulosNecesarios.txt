@@ -1,0 +1,9 @@
+...  Necesario instalar python
+
+Modulos necesarios
+...  pip install requests
+...  pip install numpy
+...  pip install nltk
+...  import nltk
+...  nltk.download('vader_lexicon')
+...  PrettyTable
